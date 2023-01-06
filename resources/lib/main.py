@@ -21,6 +21,7 @@ import urlquick
 from urllib.parse import urlencode
 import inputstreamhelper
 import json
+import m3u8
 from time import time, sleep
 from datetime import datetime, timedelta, date
 
